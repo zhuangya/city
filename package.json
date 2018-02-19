@@ -11,7 +11,7 @@
     }
   ],
   "dependencies": {
-    "cheerio": "^0.17.0",
+    "cheerio": "^0.20.0",
     "commander": "~2.2.0",
     "restler": "^3.2.2",
     "sort-by-pinyin": "^0.1.3"
